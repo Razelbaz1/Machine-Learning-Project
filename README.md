@@ -71,11 +71,25 @@ Clustering methods used:
 
 ## Repository Structure
 - `data/`: Raw and processed datasets.
-- `code/`: Scripts and Jupyter notebooks for analysis.
-- `results/`: Visualizations and model outputs.
+- `info/`: Documentation and explanations about the raw dataset.
+- `pics/`: Pre-generated images to prevent unnecessary runtime.
+- `plots/`: All graphs and visualizations generated from the code notebooks.
 - `README.md`: Project documentation.
 
 ## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/Razelbaz1/Machine-Learning-Project
+
+## Authors
+- **Raz Elbaz**
+- **Noa Anaki**
+
+## Acknowledgments
+We thank Dr. Chen Hajaj for guidance and support.
+
+## Future Directions
+1. Extend analysis to the complete dataset for increased stability.
+2. Experiment with advanced models (e.g., GANs, deep neural networks).
+3. Integrate external data on family demographics and population density.
+4. Enhance model training by increasing the dataset split to 30%.
